@@ -1,6 +1,8 @@
-##eShopAPI
-   eShopAPI is a .NET 7 Web API for managing products, orders, and customer details. It includes user authentication and authorization using JWT tokens.
-##Features
+# EShopAPI
+
+EShopAPI is a .NET 7 Web API for managing products, orders, and customer details. It includes user authentication and authorization using JWT tokens.
+
+## Features
    Product, Order, and Customer Management
    User Registration and Login with JWT Tokens
    Secure API Endpoints with JWT Authorization
